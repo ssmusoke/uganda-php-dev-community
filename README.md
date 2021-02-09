@@ -6,7 +6,7 @@ A collection of resources, information on the PHP and Laravel communities in Uga
 As a self confessed PHP lover, and community builder I am hoping that this can be a resource for finding out who is
 using PHP in Uganda what they are doing, and will hopefully grow into a full blown community at some point 
 
-What can you do? Add your details to the [data.js](src/data.js) file by sending a PR to this project as I look into automation 
+What can you do? Add your details to the [data.json](src/data.json) file by sending a PR to this project as I look into automation 
 
 ## Inspiration 
 The inspiration is drawn from [WesBos Awesome Uses](https://github.com/wesbos/awesome-uses) which is compiled into the 

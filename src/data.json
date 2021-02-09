@@ -16,5 +16,25 @@
       "UgandaEMR",
       "Tailwind"
     ]
+  },
+  {
+    "name": "Lochemem Bruno Michael",
+    "description": "I am a Software Engineer and PHP enthusiast from Kampala, Uganda",
+    "url": "https://chemem.site",
+    "twitter": "@agiroLoki",
+    "linkedin": "https://www.linkedin.com/in/michael-bruno-lochemem-13a137165/",
+    "tags": [
+      "PHP",
+      "React PHP",
+      "Asynchronous PHP",
+      "JavaScript",
+      "C++",
+      "PHP extensions",
+      "ReactJS",
+      "NodeJS",
+      "Functional Programming",
+      "PaaS",
+      "Docker"
+    ]
   }
 ]

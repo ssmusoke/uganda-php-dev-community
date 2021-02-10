@@ -38,6 +38,27 @@
     ]
   },
   {
+    "name": "Batte Akhsam (Axoblade)",
+    "description": "My interests are in developing applications that allow people to do specific tasks on electronic devices, develop the underlying systems that run the devices or that control networks.",
+    "url": "https://batte.paxol.cloud",
+    "twitter": "@axoblade",
+    "linkedin": "linkedin.com/in/batteakhsam/",
+    "tags": [
+      "PHP",
+      "React PHP",
+      "Asynchronous PHP",
+      "Vue JavaScript",
+      "PHP extensions",
+      "API Management",
+      "NodeJS",
+      "Object Oriented Programming",
+      "Xamarin C#",
+      "Docker",
+      "Tally TDL",
+      "Quickbooks SDK"
+    ]
+  },
+  {
     "name": "Brian Matovu",
     "description": "I'm a Backend Web Applications Developer.",
     "url": "http://bmatovu.com",
@@ -51,4 +72,4 @@
       "tdd"
     ]
   }
-]
+}

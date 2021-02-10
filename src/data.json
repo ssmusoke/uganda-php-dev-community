@@ -57,5 +57,19 @@
       "Tally TDL",
       "Quickbooks SDK"
     ]
+  },
+  {
+    "name": "Brian Matovu",
+    "description": "I'm a Backend Web Applications Developer.",
+    "url": "http://bmatovu.com",
+    "twitter": "@mtvbrianking",
+    "linkedin": "https://linkedin.com/in/brianmatovu",
+    "tags": [
+      "php",
+      "laravel",
+      "vuejs",
+      "swagger",
+      "tdd"
+    ]
   }
-]
+}

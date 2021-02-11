@@ -71,5 +71,19 @@
       "swagger",
       "tdd"
     ]
+  },
+  {
+    "name": "Conrad Mugisha",
+    "description": "Fullstack Developer",
+    "url": "https://medium.com/@conradmugisha",
+    "twitter": "@conradmugisha",
+    "linkedin": "https://www.linkedin.com/in/conrad-mugisha96/",
+    "tags": [
+      "PHP",
+      "Codeigniter",
+      "Javascript",
+      "Dart",
+      "Flutter"
+    ]
   }
 ]

@@ -85,5 +85,20 @@
       "Dart",
       "Flutter"
     ]
+  },
+  {
+    "name": "David M. Wampamba",
+    "description": "Custom Quick fixes for WordPress plugins and themes, ReactJs Web Apps, and ReactNative Mobile Apps. VPS setup on GCP, Linode and Digital Ocean, and passionate about teaching newbies in software development.",
+    "url": "https://davidofug.com",
+    "twitter": "@davidofug",
+    "linkedin": "https://www.linkedin.com/in/davidofug/",
+    "tags": [
+      "PHP",
+      "Javascript",
+      "NodeJs and Express",
+      "React",
+      "ReactNative",
+      "MongoDB"
+    ]
   }
 ]

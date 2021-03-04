@@ -85,5 +85,24 @@
       "Dart",
       "Flutter"
     ]
+  },
+  {
+    "name": "David M. Wampamba",
+    "description": "Passionate about quick fixing bugs in web/mobile apps as well as teaching newbies to software development.",
+    "url": "https://davidofug.com",
+    "twitter": "@davidofug",
+    "linkedin": "https://www.linkedin.com/in/davidofug/",
+    "tags": [
+      "PHP",
+      "JavaScript",
+      "NodeJS",
+      "ExpressJS",
+      "ReactJS",
+      "ReactNative",
+      "MongoDB",
+      "WordPress Plugins",
+      "WordPress Themes",
+      "Elementor pro extensions"
+    ]
   }
 ]

@@ -88,17 +88,20 @@
   },
   {
     "name": "David M. Wampamba",
-    "description": "Custom Quick fixes for WordPress plugins and themes, ReactJs Web Apps, and ReactNative Mobile Apps. VPS setup on GCP, Linode and Digital Ocean, and passionate about teaching newbies in software development.",
+    "description": "Passionate about quick fixing bugs in web/mobile apps as well as teaching newbies to software development.",
     "url": "https://davidofug.com",
     "twitter": "@davidofug",
     "linkedin": "https://www.linkedin.com/in/davidofug/",
     "tags": [
       "PHP",
-      "Javascript",
-      "NodeJs and Express",
+      "JavaScript",
+      "Node.js and Express",
       "React",
       "ReactNative",
-      "MongoDB"
+      "MongoDB",
+      "WordPress plugins",
+      "WordPress themes",
+      "Elementor pro extensions"
     ]
   }
 ]
